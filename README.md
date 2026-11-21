@@ -6,4 +6,5 @@ Static site, no build step needed to view (`index.html`). Generated from `/works
 
 Links to the existing Federation, Broken Hill, cameleers and protection case files rather than repeating them.
 
-Not published. `noindex` and `robots.txt` block indexing. Draft, pending consultation.
+Search engines are asked not to index this app (`noindex` and `robots.txt`).
+
